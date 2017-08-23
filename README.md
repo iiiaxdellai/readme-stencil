@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="">
-    <img src="/assets/YourKickassLogo.svg" height=210>
+    <img src="/assets/YourKickassLogo.png" height=210>
     </a>
   <h1 align="center">Readme Stencil</h3>
 
@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-<a href=""><img src="/assets/YourBadassCustomShield.svg" height=25></a>
-<a href=""><img src="/assets/YourBadassCustomShield.svg" height=25></a>
-<a href=""><img src="/assets/YourBadassCustomShield.svg" height=25></a>
+<a href=""><img src="/assets/YourBadassCustomShield.png" height=25></a>
+<a href=""><img src="/assets/YourBadassCustomShield.png" height=25></a>
+<a href=""><img src="/assets/YourBadassCustomShield.png" height=25></a>
 </p>
 
 <br>
